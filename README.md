@@ -1,6 +1,7 @@
 ### Hi!!! I´m Nadia👋
 
-- ⚡ Allways learning
+- ❤ Allways learning
+- ⚡Full Stack Developer in progress
 <!--
 **nadiamartel/nadiamartel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
