@@ -1,7 +1,7 @@
 ### Hi!!! I´m Nadia👋
 
 - ❤ Allways learning
-- ⚡Full Stack Developer in progress
+- ⚡Full Stack Developer 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
