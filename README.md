@@ -1,7 +1,11 @@
+
 ### Hi!!! I´m Nadia👋
+
+<img align="right" alt="coding" width="350" src="https://media0.giphy.com/media/hpXdHPfFI5wTABdDx9/200w.gif">
 
 - ❤ Allways learning
 - ⚡Full Stack Developer 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
