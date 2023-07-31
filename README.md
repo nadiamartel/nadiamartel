@@ -1,7 +1,7 @@
 
 ### Hi!!! I´m Nadia👋
 
-<img align="right" alt="coding" width="350" src="https://media0.giphy.com/media/hpXdHPfFI5wTABdDx9/200w.gif">
+<img align="right" alt="coding" width="330" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 - ❤ Allways learning
 - ⚡Full Stack Developer 
