@@ -1,10 +1,14 @@
 
-### Hi!!! I´m Nadia👋
+<center>
+
+# Hi!!! I´m Nadia👋
+
+</center>
 
 <img align="right" alt="coding" width="330" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-- ❤ Allways learning
 - ⚡Full Stack Developer 
+- ❤ Allways learning
 
 
 <h3 align="left">Connect with me:</h3>
