@@ -7,9 +7,10 @@
 
 <img align="right" alt="coding" width="330" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-- ⚡Full Stack Developer 
+- ⚡ Full Stack Developer
+- 🎓 Bachelor's Degree in Business Administration
 - ❤ Allways learning
-
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
